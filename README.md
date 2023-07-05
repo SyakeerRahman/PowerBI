@@ -2,7 +2,7 @@
 All project regarding PowerBI
 
 
-How to Power BI - How to Build a Financial Report in Power BI
+1. (Finance Dashboard) How to Power BI - How to Build a Financial Report in Power BI
 
 <img width="239" alt="image" src="https://github.com/SyakeerRahman/PowerBI/assets/105381652/231e3852-cd51-4c6c-ad42-75268a195ff7">
 <img width="662" alt="image" src="https://github.com/SyakeerRahman/PowerBI/assets/105381652/b2f6caff-b042-432f-a5f7-cce570502c5e">
